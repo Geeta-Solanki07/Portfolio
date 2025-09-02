@@ -42,8 +42,8 @@ const projects = [
     description: "Simple age calculator app using HTML, CSS, and JavaScript.",
     image: Img,
     tags: ["HTML", "CSS", "JavaScript"],
-    demoUrl: "https://geeta-75.github.io/age-calculator/",
-    githubUrl: "https://github.com/Geeta-75/age-calculator",
+    demoUrl: "https://geeta-solanki07.github.io/age-calculator/",
+    githubUrl: "https://github.com/Geeta-Solanki07/age-calculator",
   },
   {
     id: 2,
@@ -52,8 +52,8 @@ const projects = [
       "Interactive quiz app using HTML, CSS, and JavaScript with multiple questions and scoring system.",
     image: Img2,
     tags: ["HTML", "CSS", "JavaScript"],
-    demoUrl: "https://geeta-75.github.io/quiz-app/",
-    githubUrl: "https://github.com/Geeta-75/quiz-app",
+    demoUrl: "https://geeta-solanki07.github.io/quiz-app/",
+    githubUrl: "https://github.com/Geeta-Solanki07/quiz-app",
   },
   {
     id: 3,
@@ -62,8 +62,8 @@ const projects = [
       "Responsive restaurant website showcasing menu, events, and reservations using HTML, CSS, JavaScript, and Bootstrap 5.",
     image: Img3,
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-    demoUrl: "https://geeta-75.github.io/restaurant-app/",
-    githubUrl: "https://github.com/Geeta-75/restaurant-app",
+    demoUrl: "https://geeta-solanki07.github.io/restaurant-app/",
+    githubUrl: "https://github.com/Geeta-Solanki07/restaurant-app",
   },
 ];
 

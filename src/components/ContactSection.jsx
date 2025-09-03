@@ -98,7 +98,7 @@ export const ContactSection = () => {
                   <FaLinkedin />
                 </a>
                 <a
-                  href="https://github.com/Geeta-75"
+                  href="https://github.com/Geeta-Solanki07"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-primary transition-colors"

@@ -149,7 +149,7 @@ export const ProjectsSection = () => {
             className="cosmic-button w-fit flex items-center mx-auto gap-2 text-lg md:text-xl"
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/Geeta-75"
+            href="https://github.com/Geeta-Solanki07"
           >
             Check My Github <ArrowRight size={18} />
           </a>

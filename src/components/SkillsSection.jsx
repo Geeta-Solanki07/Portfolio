@@ -8,19 +8,19 @@ const skills = [
   { name: "Bootstrap", category: "frontend" },
   { name: "Tailwind CSS", category: "frontend" },
   { name: "Node.js", category: "backend" },
-  { name: "Express", category: "backend" },
+  // { name: "Express", category: "backend" },
   { name: "MongoDB", category: "backend" },
   { name: "Git/GitHub", category: "tools" },
   { name: "VS Code", category: "tools" },
-  { name: "Communication", category: "SoftSkills" },
-  { name: "Problem Solving", category: "SoftSkills" },
-  { name: "Teamwork", category: "SoftSkills" },
-  { name: "Time Management", category: "SoftSkills" },
-  { name: "Leadership", category: "SoftSkills" },
+  // { name: "Communication", category: "SoftSkills" },
+  // { name: "Problem Solving", category: "SoftSkills" },
+  // { name: "Teamwork", category: "SoftSkills" },
+  // { name: "Time Management", category: "SoftSkills" },
+  // { name: "Leadership", category: "SoftSkills" },
 ];
 
 // Categories
-const categories = ["all", "frontend", "backend", "tools", "SoftSkills"];
+const categories = ["all", "frontend", "backend", "tools",];
 
 export const SkillsSection = () => {
   const [activeCategory, setActiveCategory] = useState("all");
